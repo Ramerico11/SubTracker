@@ -49,13 +49,6 @@ npm run dev
 *Abra o endereço exibido pelo Vite no Terminal 2 (normalmente `http://localhost:5173/`).*
 *No PowerShell, caso a execução de scripts esteja bloqueada, use `npm.cmd` no lugar de `npm`.*
 
-## Build de produção
-
-```bash
-npm run build
-npm run preview
-```
-O build é gerado na pasta `dist/`. O comando de preview permite conferir essa versão compilada localmente antes de a enviar para um servidor.
 
 ## Organização do código
 
